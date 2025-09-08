@@ -1,4 +1,5 @@
 # 🌍 Groundwater Extraction and Resource Analysis (India)
+![Dashboard](https://github.com/fromciviltodata/Groundwater-Assessment-Report-India-2011-12-/blob/main/groundwater-revised-dashboard-powerbi.JPG)
 ## 📌 Project Overview
 
 India is one of the largest users of groundwater in the world. With rising demand for irrigation, urban growth, and industrial use, many states are facing severe groundwater stress, while others still have untapped potential.
@@ -74,7 +75,7 @@ Deploy interactive dashboard online (Power BI Service or embedded app)
 
 ## 📷 Dashboard Preview
 
-![Dashboard](https://github.com/fromciviltodata/Groundwater-Assessment-Report-India-2011-12-/blob/main/groundwater-revised-dashboard-powerbi.JPG)
+
 
 ## 👋 About Me
 
