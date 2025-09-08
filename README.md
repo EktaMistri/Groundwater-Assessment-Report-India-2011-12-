@@ -1,87 +1,86 @@
 # 🌍 Groundwater Extraction and Resource Analysis (India)
+
 ![Dashboard](https://github.com/fromciviltodata/Groundwater-Assessment-Report-India-2011-12-/blob/main/groundwater-revised-dashboard-powerbi.JPG)
+
 ## 📌 Project Overview
 
-India is one of the largest users of groundwater in the world. With rising demand for irrigation, urban growth, and industrial use, many states are facing severe groundwater stress, while others still have untapped potential.
+India extracts **more groundwater than any other country** — over 85% is used for irrigation, with urban and industrial demand rising fast. Some states face **severe over-exploitation**, while others still hold surplus reserves.
 
-This project analyzes groundwater recharge, extractable resources, and sector-wise extraction across 37 Indian states & union territories (UTs). The dashboard highlights critical insights such as over-exploited states, surplus regions, sectoral demand patterns, and inter-state disparities.
+This Power BI dashboard analyzes recharge, extractable resources, and sector-wise extraction across 37 states/UTs. It highlights where the **gaps between availability and use** are critical, and where opportunities for sustainable allocation exist.
 
-**⚡ Built entirely in Power BI (with Power Query and DAX), this project demonstrates my ability to:**
+**⚡ This project is entirely my own** — from data collection and cleaning to dashboard design, tooltips, and insights. It combines my background in civil engineering with new skills in Power BI, showing how I can connect **real-world policy problems** with **data analytics storytelling.**
 
-Clean and transform raw government data
+### 📊 Dashboard Highlights
 
-Build interactive visualizations with slicers, filters, and dynamic tooltips
+**🔹 KPIs**
 
-Communicate data insights in a policy-relevant and easy-to-understand way
+* Total Recharge vs Extractable Resource vs Actual Extraction
 
-## 📊 Dashboard Highlights
+* Stage of Extraction (%) → stress indicator
 
-**🔹 Key Performance Indicators (KPIs)**
+* Surplus/Deficit Gap → instantly shows if a state is overusing or underusing
 
-* Total Recharge vs Extractable Resource vs Extraction
+**🔹 Visuals**
 
-* Stage of Extraction (%) 
+* **Sector-wise Stacked Bar →** irrigation vs domestic vs industrial use
 
-**🔹 Visualizations**
+* **Top 5 & Bottom 5 States →** highest stress vs surplus
 
-* Sector-wise Stacked Bar Chart → Shows irrigation, industrial, and domestic extraction
+* **Category Analysis →** Safe, Semi-Critical, Critical, Over-Exploited
 
-* Top 5 & Bottom 5 States (Stage of Extraction) → Overexploited vs surplus regions
+* **Dynamic Tooltips →** Example: “Punjab over-extracts by 10.95 BCM → equivalent to irrigation for 2M hectares lost”
 
-* Category Analysis (Safe / Semi-Critical / Critical / Overexploited) → Classification of states
+### 🔑 Key Insights (Policy Lens)
 
-* Dynamic Tooltips → Hovering shows policy-style insights (e.g., “Punjab over-extracts by 10.95 BCM → 20,00,000 hectares irrigation lost”)
+- 🚨 6 states are over-exploited → urgent demand management required
 
-**🔹 Key Insights (Policy Lens)**
+- ⚠️ Punjab, Rajasthan, Haryana → stress levels >130%
 
-* 6 states are overexploited → urgent demand management needed
+- 🌱 North-Eastern states → untapped surplus opportunity
 
-* Punjab, Rajasthan, Haryana under extreme stress (>130%)
+- 💧 Irrigation = 85–90% of extraction → efficiency is critical
 
-* North-Eastern states show surplus → opportunity to balance regional use
+- 📈 Urban & industrial demand rising → policy focus shifting
 
-* Irrigation dominates (~85–90% of extraction)
+- 🌍 Wide inter-state disparity → one national policy won’t fit all
 
-* Urban & industrial demand is rising → efficiency crucial
+### 🗂️ Data Source
 
-* Large inter-state disparity → requires region-specific water policies
+- Open Government Data Platform, India (data.gov.in)
 
-## 🗂️ Data Source
+- Population data (added for per-capita analysis)
 
-The dataset was obtained from the Open Government Data Platform, India (data.gov.in).
-Population data was also combined for per-capita analysis (though not included in final dashboard).
+### 🛠️ Tools & Techniques
 
-## 🛠️ Tools & Techniques
+- **Power BI** → interactive visuals, slicers, tooltips
 
-Power BI: Interactive dashboards, slicers, tooltips
+- **Power Query** → data cleaning & transformation
 
-Power Query: Data cleaning & transformation
+- **DAX** → measures for Stage of Extraction, Top/Bottom 5 states, tooltips
 
-DAX (Basic): Custom measures (Stage of Extraction %, Top/Bottom 5 states, dynamic tooltip text)
-
-Excel: Used initially for exploring and cleaning raw data
+- **Excel** → initial exploration
 
 ## 🎯 Why This Project Matters
 
-This project reflects my experience of working with groundwater and irrigation data during my 4 years as a civil engineer in India. By combining that background with my current learning in Power BI, I demonstrate how I can transform real-world datasets into clear visual stories that support policy and decision-making.
+This project reflects my **first-hand experience with irrigation & groundwater data** from my 4 years as a civil engineer. It demonstrates how I can:
 
-## 🚀 Next Steps
+- Take a **real policy dataset**
 
-Extend analysis with rainfall & river basin data for holistic water planning
+- Clean, model, and analyze it
 
-Add time-series trends (multi-year extraction data)
+- Present insights in a **decision-ready, visual form**
 
-Deploy interactive dashboard online (Power BI Service or embedded app)
+Unlike sample datasets, this one connects directly to **real-world consequences** (surplus vs deficit = millions of lives impacted).
 
-## 📷 Dashboard Preview
+### 🚀 Next Steps
 
+- Integrate rainfall & basin-level data
 
+- Build time-series extraction trends
+
+- Deploy interactive version online
 
 ## 👋 About Me
 
-With 4 years of experience as a civil engineer working on irrigation and groundwater projects, I am now upskilling in Power BI, SQL, and Python to transition into data analytics.
+I’m transitioning from civil engineering to data analytics. This project shows how I can bridge **domain knowledge and data skills** to create dashboards that matter.
 
-This project demonstrates how I can use my domain experience and new technical skills to analyze real-world data and present it in a meaningful way.
-
-⚡ If you’re a recruiter/hiring manager and want to discuss how I can contribute to your team → feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ektamistri)
-.
