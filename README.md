@@ -1,6 +1,6 @@
 # 🌍 Groundwater Extraction and Resource Analysis (India)
 
-![Dashboard](https://github.com/fromciviltodata/Groundwater-Assessment-Report-India-2011-12-/blob/main/groundwater-revised-dashboard-powerbi.JPG)
+![Dashboard](https://github.com/EktaMistri/Groundwater-Assessment-Report-India-2011-12-/blob/main/dashboard%20overview.png)
 
 ## 📌 Project Overview
 
